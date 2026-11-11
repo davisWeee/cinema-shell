@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 Disallow: /r/
 
-Sitemap: https://codehyy.github.io/cinema-shell/sitemap.xml
+Sitemap: https://davisweee.github.io/cinema-shell/sitemap.xml
 Sitemap: https://cinema-shell.pages.dev/sitemap.xml

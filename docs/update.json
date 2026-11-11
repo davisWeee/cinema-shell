@@ -7,9 +7,9 @@
       "notes": "1.4.0：广告源与广告位可远程切换，新增 Taku 广告源。",
       "force": false,
       "urls": [
-        "https://github.com/CodeHYY/cinema-shell/releases/download/v1.4.0/xinghe-1.4.0.apk",
-        "https://cdn.jsdelivr.net/gh/CodeHYY/cinema-shell@main/docs/dl/xinghe-1.4.0.apk",
-        "https://codehyy.github.io/cinema-shell/dl/xinghe-1.4.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0/xinghe-1.4.0.apk",
+        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell@main/docs/dl/xinghe-1.4.0.apk",
+        "https://davisweee.github.io/cinema-shell/dl/xinghe-1.4.0.apk"
       ]
     },
     "chiyan": {
@@ -18,9 +18,9 @@
       "notes": "1.4.0：广告源与广告位可远程切换，新增 Taku 广告源。",
       "force": false,
       "urls": [
-        "https://github.com/CodeHYY/cinema-shell/releases/download/v1.4.0/chiyan-1.4.0.apk",
-        "https://cdn.jsdelivr.net/gh/CodeHYY/cinema-shell@main/docs/dl/chiyan-1.4.0.apk",
-        "https://codehyy.github.io/cinema-shell/dl/chiyan-1.4.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0/chiyan-1.4.0.apk",
+        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell@main/docs/dl/chiyan-1.4.0.apk",
+        "https://davisweee.github.io/cinema-shell/dl/chiyan-1.4.0.apk"
       ]
     },
     "yingyu": {
@@ -29,8 +29,8 @@
       "notes": "1.5.0：广告位配置可远程更新。",
       "force": false,
       "urls": [
-        "https://github.com/CodeHYY/cinema-shell/releases/download/v1.5.0-yingyu/yingyu-1.5.0.apk",
-        "https://codehyy.github.io/cinema-shell/dl/yingyu-1.5.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.5.0-yingyu/yingyu-1.5.0.apk",
+        "https://davisweee.github.io/cinema-shell/dl/yingyu-1.5.0.apk"
       ]
     },
     "zhuiguang": {
@@ -39,8 +39,8 @@
       "notes": "1.8.0：广告位配置可远程更新；信息流样式优化。",
       "force": false,
       "urls": [
-        "https://github.com/CodeHYY/cinema-shell/releases/download/v1.8.0-zhuiguang/zhuiguang-1.8.0.apk",
-        "https://codehyy.github.io/cinema-shell/dl/zhuiguang-1.8.0.apk"
+        "https://github.com/davisWeee/cinema-shell/releases/download/v1.8.0-zhuiguang/zhuiguang-1.8.0.apk",
+        "https://davisweee.github.io/cinema-shell/dl/zhuiguang-1.8.0.apk"
       ]
     }
   }
