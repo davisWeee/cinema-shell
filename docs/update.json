@@ -8,7 +8,7 @@
       "force": false,
       "urls": [
         "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0/xinghe-1.4.0.apk",
-        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell@main/docs/dl/xinghe-1.4.0.apk",
+        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell-cdn@main/dl/xinghe-1.4.0.apk",
         "https://davisweee.github.io/cinema-shell/dl/xinghe-1.4.0.apk"
       ]
     },
@@ -19,7 +19,7 @@
       "force": false,
       "urls": [
         "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0/chiyan-1.4.0.apk",
-        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell@main/docs/dl/chiyan-1.4.0.apk",
+        "https://cdn.jsdelivr.net/gh/davisWeee/cinema-shell-cdn@main/dl/chiyan-1.4.0.apk",
         "https://davisweee.github.io/cinema-shell/dl/chiyan-1.4.0.apk"
       ]
     },
