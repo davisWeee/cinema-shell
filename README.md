@@ -10,7 +10,7 @@
 
 | 应用 | 版本 | 大小 | 系统要求 | 链接 |
 |---|---|---|---|---|
-| 星河影院 | 1.3.3 | 12.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/xinghe.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.3.3/xinghe-1.3.3.apk) |
+| 星河影院 | 1.4.1 | 15.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/xinghe.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.4.1/xinghe-1.4.1.apk) |
 | 赤焰影院 | 1.3.3 | 12.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/chiyan.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.3.3/chiyan-1.3.3.apk) |
 | 映屿 | 1.6.0 | 23.2 MB | Android 8.0+ | [下载页](https://davisweee.github.io/cinema-shell/yingyu.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.6.0-yingyu/yingyu-1.6.0.apk) |
 | 追光 | 1.7.1 | 23.2 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/zhuiguang.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.3.1/zhuiguang-1.7.1.apk) |
@@ -58,8 +58,8 @@
 
 ## 更新日志（当前版本）
 
-**星河影院 1.3.3**
-- 去掉站点自带的「收藏回家地址」「站内通知」等引流弹窗，打开即看片
+**星河影院 1.4.1**
+- 更新通道、广告配置与隐私政策地址迁移到新站点
 
 **赤焰影院 1.3.3**
 - 去掉站点自带的「收藏回家地址」「站内通知」等引流弹窗，打开即看片
