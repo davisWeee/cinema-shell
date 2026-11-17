@@ -31,7 +31,8 @@
    "https://github.com/davisWeee/cinema-shell/releases/download/v1.3.3/chiyan-1.3.3.apk",
    "https://davisweee.github.io/cinema-shell/dl/chiyan-1.3.3.apk",
    "https://davisweee.github.io/cinema-shell/dl/chiyan-1.3.3.apk"
-  ]
+  ],
+  "deprecated": true
  },
  {
   "id": "yingyu",
@@ -64,6 +65,7 @@
    "https://github.com/davisWeee/cinema-shell/releases/download/v1.3.1/zhuiguang-1.7.1.apk",
    "https://davisweee.github.io/cinema-shell/dl/zhuiguang-1.7.1.apk",
    "https://davisweee.github.io/cinema-shell/dl/zhuiguang-1.7.1.apk"
-  ]
+  ],
+  "deprecated": true
  }
 ]

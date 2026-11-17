@@ -1,6 +1,8 @@
-# 星河影院 / 赤焰影院 / 映屿 / 追光（Android）
+# 映屿 / 星河影院 / 影视盒（Android）
 
-4 款 Android 影视客户端：检索、选集、多线路切换、弹幕、续播。无需注册登录。
+核心产品（按片源分）：映屿（原生，片源由 vod-hub 远程路由）、星河影院（H5 壳）、影视盒（TVBox 配置，预发布）。赤焰影院、追光已停止更新（旧版本保留，不再维护）。
+
+Android 影视客户端：检索、选集、多线路切换、弹幕、续播。无需注册登录。
 
 > 官方下载页：**https://davisweee.github.io/cinema-shell/**（三条直链自动择优，含安装教程）
 >
@@ -11,9 +13,8 @@
 | 应用 | 版本 | 大小 | 系统要求 | 链接 |
 |---|---|---|---|---|
 | 星河影院 | 1.4.1 | 15.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/xinghe.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.4.1/xinghe-1.4.1.apk) |
-| 赤焰影院 | 1.3.3 | 12.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/chiyan.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.3.3/chiyan-1.3.3.apk) |
+| 影视盒（预发布） | 2.1 | 约 58 MB + 模块 | Android 5.0+ / 电视 | [Release](https://github.com/davisWeee/cinema-shell/releases/tag/v2.1-yingshihe) |
 | 映屿 | 1.6.0 | 23.2 MB | Android 8.0+ | [下载页](https://davisweee.github.io/cinema-shell/yingyu.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.6.0-yingyu/yingyu-1.6.0.apk) |
-| 追光 | 1.7.1 | 23.2 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/zhuiguang.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.3.1/zhuiguang-1.7.1.apk) |
 
 每个产品页都公布了安装包的 SHA-256，下载后可核对。安装包也可在 [Releases](https://github.com/davisWeee/cinema-shell/releases) 获取。
 
