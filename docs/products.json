@@ -37,17 +37,16 @@
   "id": "yingyu",
   "name": "映屿",
   "pkg": "com.venture.yingyu",
-  "version": "1.4.0",
-  "versionCode": "1400",
-  "file": "yingyu-1.4.0.apk",
-  "size": 24348824,
-  "sha256": "a1d1946c1cddb017bb5107ed433eb6b46b623871fc0aedd0dcd3c52cf6037312",
+  "version": "1.6.0",
+  "versionCode": "1600",
+  "file": "yingyu-1.6.0.apk",
+  "size": 24365208,
+  "sha256": "f9044cc837c3b052d675daed18d70cd726853dfc77d26e78e6a6c7c6dc670d59",
   "minAndroid": "8.0",
   "page": "https://davisweee.github.io/cinema-shell/yingyu.html",
   "urls": [
-   "https://github.com/davisWeee/cinema-shell/releases/download/v1.4.0-yingyu/yingyu-1.4.0.apk",
-   "https://davisweee.github.io/cinema-shell/dl/yingyu-1.4.0.apk",
-   "https://davisweee.github.io/cinema-shell/dl/yingyu-1.4.0.apk"
+   "https://github.com/davisWeee/cinema-shell/releases/download/v1.6.0-yingyu/yingyu-1.6.0.apk",
+   "https://davisweee.github.io/cinema-shell/dl/yingyu-1.6.0.apk"
   ]
  },
  {
