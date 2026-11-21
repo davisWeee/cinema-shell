@@ -13,7 +13,7 @@ Android 影视客户端：检索、选集、多线路切换、弹幕、续播。
 | 应用 | 版本 | 大小 | 系统要求 | 链接 |
 |---|---|---|---|---|
 | 星河影院 | 1.4.1 | 15.0 MB | Android 7.0+ | [下载页](https://davisweee.github.io/cinema-shell/xinghe.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.4.1/xinghe-1.4.1.apk) |
-| 影视盒（预发布） | 2.1 | 约 58 MB + 模块 | Android 5.0+ / 电视 | [Release](https://github.com/davisWeee/cinema-shell/releases/tag/v2.1-yingshihe) |
+| 影视盒（预发布） | 2.1 | arm64 55 MB / armv7 47 MB | Android 5.0+ / 电视 | [arm64-v8a（手机/新盒子）](https://github.com/davisWeee/cinema-shell/releases/download/v2.1-yingshihe/yingshihe-2.1-arm64-v8a.apk) · [armeabi-v7a（32 位电视/旧盒子）](https://github.com/davisWeee/cinema-shell/releases/download/v2.1-yingshihe/yingshihe-2.1-armeabi-v7a.apk) · [运行模块](https://github.com/davisWeee/cinema-shell/releases/tag/yingshihe-runtimes-2.1) |
 | 映屿 | 1.6.0 | 23.2 MB | Android 8.0+ | [下载页](https://davisweee.github.io/cinema-shell/yingyu.html) · [GitHub 直链](https://github.com/davisWeee/cinema-shell/releases/download/v1.6.0-yingyu/yingyu-1.6.0.apk) |
 
 每个产品页都公布了安装包的 SHA-256，下载后可核对。安装包也可在 [Releases](https://github.com/davisWeee/cinema-shell/releases) 获取。
